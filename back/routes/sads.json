@@ -1,0 +1,69 @@
+[
+    
+    {
+        "_id": "6745665ad1074f2bacd0b99f",
+        "name": "Spinach",
+        "quantity": 3,
+        "category": "Vegetables",
+        "expirationDate": "2024-12-05",
+        "image": "https://i.pinimg.com/736x/88/a7/b6/88a7b6e15ed1c5722cfbd456fb4ddd93.jpg"
+    },
+    {
+        "_id": "6745665ad1074f2bacd0b9a0",
+        "name": "Cucumber",
+        "quantity": 6,
+        "category": "Vegetables",
+        "expirationDate": "2024-12-12",
+        "image": "https://i.pinimg.com/736x/38/16/80/38168044338d346c679c36784769d2df.jpg"
+    },
+    {
+        "_id": "6745665ad1074f2bacd0b9a1",
+        "name": "Bell Pepper",
+        "quantity": 4,
+        "category": "Vegetables",
+        "expirationDate": "2024-12-01",
+        "image": "https://i.pinimg.com/736x/97/5c/28/975c28c7ffdfc72dddc25c54aa6b8a6b.jpg"
+    },
+    {
+        "_id": "6745665ad1074f2bacd0b9a2",
+        "name": "Zucchini",
+        "quantity": 8,
+        "category": "Vegetables",
+        "expirationDate": "2024-12-10",
+        "image": "https://i.pinimg.com/736x/d4/cb/72/d4cb72f688095cf63c43a7fc3482a7fe.jpg"
+    },
+    {
+        "_id": "6745665ad1074f2bacd0b9a3",
+        "name": "Cauliflower",
+        "quantity": 5,
+        "category": "Vegetables",
+        "expirationDate": "2024-11-25",
+        "image": "https://i.pinimg.com/736x/71/93/12/7193122e247d63c154075c0f91c1dacc.jpg"
+    },
+ 
+    {
+        "_id": "6745665ad1074f2bacd0b9a5",
+        "name": "Eggplant",
+        "quantity": 3,
+        "category": "Vegetables",
+        "expirationDate": "2024-12-03",
+        "image": "https://i.pinimg.com/736x/ff/07/9c/ff079c0f34060e442c15f0c49d832c22.jpg"
+    },
+    {
+        "_id": "6745665ad1074f2bacd0b9a6",
+        "name": "Radish",
+        "quantity": 15,
+        "category": "Vegetables",
+        "expirationDate": "2024-11-28",
+        "image": "https://i.pinimg.com/736x/58/f1/5a/58f15a4841f69c0676c9a4db49789659.jpg"
+    }
+    ,
+    {
+        "_id": "6745665ad1074f2bacd0b9a7",
+        "name": "Potato",
+        "quantity": 20,
+        "category": "Vegetables",
+        "expirationDate": "2024-12-25",
+        "image": "https://i.pinimg.com/736x/b1/0e/26/b10e26a5218f376f6dcf0096e3346827.jpg"
+    }
+]
